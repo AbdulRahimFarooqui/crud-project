@@ -22,6 +22,9 @@
     "mdi-material-ui": "^6.22.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "theme-ui": "^0.11.1"
+    "theme-ui": "^0.11.1",
+    "apollo-server-lambda": "^2.25.2",
+    "faunadb": "^4.3.0",
+    "graphql": "^15.5.1"
   }
 }
