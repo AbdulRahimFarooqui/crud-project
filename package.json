@@ -1,0 +1,27 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "abdurraheemfarooqui",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.0.0-beta.33",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.11.4",
+    "apollo-link-context": "^1.0.19",
+    "faunadb": "^2.11.1",
+    "gatsby": "^2.19.12",
+    "gatsby-plugin-create-client-paths": "^2.1.22",
+    "gatsby-plugin-material-ui": "^3.0.1",
+    "mdi-material-ui": "^6.22.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "theme-ui": "^0.11.1"
+  }
+}
