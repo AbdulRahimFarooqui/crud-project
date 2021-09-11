@@ -16,7 +16,7 @@
     "@material-ui/styles": "^4.11.4",
     "apollo-link-context": "^1.0.19",
     "faunadb": "^2.11.1",
-    "gatsby": "^2.19.12",
+    "gatsby": "3.0.0",
     "gatsby-plugin-create-client-paths": "^2.1.22",
     "gatsby-plugin-material-ui": "^3.0.1",
     "mdi-material-ui": "^6.22.1",
