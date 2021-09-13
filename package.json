@@ -25,6 +25,6 @@
     "apollo-server-lambda": "^2.25.2",
     "faunadb": "^4.3.0",
     "graphql": "^15.5.1",
-    "joi": "^17.4.2",
+    "joi": "^17.4.2"
   }
 }
