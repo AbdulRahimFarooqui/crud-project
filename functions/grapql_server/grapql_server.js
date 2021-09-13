@@ -2,7 +2,7 @@ const { ApolloServer, gql } = require("apollo-server-lambda");
 const faunadb = require("faunadb");
 const q = faunadb.query;
 require('events').EventEmitter.defaultMaxListeners = 4000;
-var client = new faunadb.Client({ secret: process.env.FAUNA });
+var client = new faunadb.Client({ secret: process.env.FAUNA_CODE });
 
 const typeDefs = gql`
   type Query {
