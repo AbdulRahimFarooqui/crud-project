@@ -16,7 +16,7 @@
     "@material-ui/styles": "^4.11.4",
     "apollo-link-context": "^1.0.19",
     "faunadb": "^2.11.1",
-    "gatsby": "3.0.0",
+    "gatsby": "3.11.1",
     "gatsby-plugin-material-ui": "^3.0.1",
     "mdi-material-ui": "^6.22.1",
     "react": "^16.12.0",
@@ -24,6 +24,7 @@
     "theme-ui": "^0.11.1",
     "apollo-server-lambda": "^2.25.2",
     "faunadb": "^4.3.0",
-    "graphql": "^15.5.1"
+    "graphql": "^15.5.1",
+    "joi": "^17.4.2",
   }
 }
