@@ -1,4 +1,4 @@
 [build]
-  command = "node -p 'process.env' && yarn build"
+  command = "yarn && node -p 'process.env' && yarn build"
   functions = "functions"
   publish = "public"
